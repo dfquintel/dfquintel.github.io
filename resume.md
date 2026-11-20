@@ -11,18 +11,19 @@ Associate Professor
 __University of Tennessee, Knoxville__
 MLIS
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2005`
+__Northeastern University__
+BA English Literature 
 
-## Awards
+<!-- ## Awards
 
 `2012`
 Name of Award, Organization 
+-->
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+ A list is available [Google Scholar](https://scholar.google.com/citations?user=LkevqwYAAAAJ&hl) <!-- -->
 
 ### Journals
 
