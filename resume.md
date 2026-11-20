@@ -7,9 +7,9 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2013`
+__University of Tennessee, Knoxville__
+MLIS
 
 `1995 - 1997`
 __University Name__
